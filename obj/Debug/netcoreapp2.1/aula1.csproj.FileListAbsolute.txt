@@ -1,0 +1,11 @@
+C:\Projetos\CursosUdemy\netcore\aula1\bin\Debug\netcoreapp2.1\aula1.deps.json
+C:\Projetos\CursosUdemy\netcore\aula1\bin\Debug\netcoreapp2.1\aula1.runtimeconfig.json
+C:\Projetos\CursosUdemy\netcore\aula1\bin\Debug\netcoreapp2.1\aula1.runtimeconfig.dev.json
+c:\Projetos\CursosUdemy\netcore\aula1\bin\Debug\netcoreapp2.1\aula1.dll
+c:\Projetos\CursosUdemy\netcore\aula1\bin\Debug\netcoreapp2.1\aula1.pdb
+c:\Projetos\CursosUdemy\netcore\aula1\obj\Debug\netcoreapp2.1\aula1.csprojAssemblyReference.cache
+c:\Projetos\CursosUdemy\netcore\aula1\obj\Debug\netcoreapp2.1\aula1.csproj.CoreCompileInputs.cache
+c:\Projetos\CursosUdemy\netcore\aula1\obj\Debug\netcoreapp2.1\aula1.AssemblyInfoInputs.cache
+c:\Projetos\CursosUdemy\netcore\aula1\obj\Debug\netcoreapp2.1\aula1.AssemblyInfo.cs
+c:\Projetos\CursosUdemy\netcore\aula1\obj\Debug\netcoreapp2.1\aula1.dll
+c:\Projetos\CursosUdemy\netcore\aula1\obj\Debug\netcoreapp2.1\aula1.pdb
